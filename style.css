@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: 5px solid blue;
+    border-radius: 10px;
+    padding: 8px;
+}
+
+header a {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    border: 5px solid blue;
+    border-radius: 7px;
+}
